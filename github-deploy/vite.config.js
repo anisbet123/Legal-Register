@@ -4,7 +4,7 @@ import { VitePWA } from 'vite-plugin-pwa'
 
 // IMPORTANT: Change 'safework-pro' below to match your GitHub repository name exactly.
 // e.g. if your repo URL is github.com/yourname/my-app  →  base: '/my-app/'
-const REPO_NAME = 'safework-pro'
+const REPO_NAME = 'Legal-Register'
 
 export default defineConfig({
   base: `/${REPO_NAME}/`,
